@@ -1,4 +1,4 @@
-# php-apache
+# docker-php-apache
 
 ## Description
 
